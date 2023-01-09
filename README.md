@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezazulf&label=Profile%20views&color=0e75b6&style=flat" alt="rezazulf" /> </p>
 
-- 🌱 I’m currently learning **React JS, Vue JS, NoSQL, etc.**
+- 🌱 I’m currently learning **Go Lang, NoSQL, etc.**
 
 - 💬 Ask me about **Laravel and Back-End Web Development.**
 
