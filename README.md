@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/muhammad-reza-zulfikarsyah-882a771b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-reza-zulfikarsyah-882a771b3" height="30" width="40" /></a>
 <a href="https://fb.com/reza.zulfikarsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reza.zulfikarsyah" height="30" width="40" /></a>
 <a href="https://instagram.com/rzzlf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzzlf" height="30" width="40" /></a>
-<a href="https://discord.gg/Mure#6791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mure#6791" height="30" width="40" /></a>
+<a href="https://discord.gg/mure#1407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mure#6791" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Stats : </h3>
